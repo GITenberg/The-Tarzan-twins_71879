@@ -1,0 +1,41 @@
+_repo: The-Tarzan-twins_71879
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ostrander, Isabel
+    aliases:
+    - Chipperfield, Robert Orr
+    - Grant, Douglas
+    - Fox, David
+    - Ostrander, Isabel Egenton
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '33851'
+    url: http://www.gutenberg.org/2009/agents/33851
+    wikipedia: https://en.wikipedia.org/wiki/Isabel_Ostrander
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2023-10-14'
+identifiers:
+  gutenberg: '71879'
+language: en
+pgterms:marc905: 20230223131349burroughs
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bThe P. F. Volland Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Tarzan twins
+url: http://www.gutenberg.org/ebooks/71879
