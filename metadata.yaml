@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '33851'
     url: http://www.gutenberg.org/2009/agents/33851
     wikipedia: https://en.wikipedia.org/wiki/Isabel_Ostrander
+covers:
+- cover_type: archival
+  image_path: 71879-h/images/cover.jpg
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71879#The-Tarzan-twins
 gutenberg_issued: '2023-10-14'
 identifiers:
   gutenberg: '71879'
